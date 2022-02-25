@@ -3,7 +3,7 @@
 ## What's the laziest piece of paper?
 /*originall*/
 
-- a nap kin, git it? git it?
+
 /*New*/
 - A NAP kin, git it? git it?
 
@@ -18,6 +18,7 @@ Mandrake, do you recall what Clemenceau once said about war? ... He said "War is
 JSON ded!
 
 them: "good morning!"
+There are only 10 kinds of people in this world: those who know binary and those who don’t.
 me: "whats so good about this morning anyway?!"
 
 
