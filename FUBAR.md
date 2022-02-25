@@ -1,6 +1,6 @@
-# Telling Jokes, blah blah blah
+# Telling Jokes is not easy
 
-What's the laziest piece of paper?
+## What's the laziest piece of paper?
 /*originall*/
 
 - a nap kin, git it? git it?
@@ -21,3 +21,7 @@ them: "good morning!"
 me: "whats so good about this morning anyway?!"
 
 
+
+
+
+### a wise man once said "Eugoogiligist: A person who delivers eugoogiligies."
