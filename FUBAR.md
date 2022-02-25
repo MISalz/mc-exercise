@@ -7,9 +7,6 @@ What's the laziest piece of paper?
 /*New*/
 - A NAP kin, git it? git it?
 
--Testing merge conflict
-
-MomsSpagetti
 
 They have neither the time, the training, nor the inclination for strategic thought. I can no longer sit back and allow Communist infiltration, Communist indoctrination, Communist subversion and the international Communist conspiracy to sap and impurify all of our precious bodily fluids. - Jack D. Ripper, Dr. Strangelove 1964
 
