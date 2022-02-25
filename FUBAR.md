@@ -6,11 +6,12 @@ What's the laziest piece of paper?
 /*New*/
 - A NAP kin, git it? git it?
 
--Testing merge conflict
-
-
-
-
+-Peace Sells but whos buying(Not A Joke)
 
 MomsSpagetti
+
+JSON ded!
+
+them: "good morning!"
+me: "whats so good about this morning anyway?!"
 
